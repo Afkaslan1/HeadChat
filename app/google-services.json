@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497249510553",
+    "firebase_url": "https://headchat-9fa70-default-rtdb.firebaseio.com",
+    "project_id": "headchat-9fa70",
+    "storage_bucket": "headchat-9fa70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497249510553:android:579bd46cb2d65ef884c408",
+        "android_client_info": {
+          "package_name": "com.afkaslan.headchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497249510553-sgqtg1sgb04k6u2o0o6bhpjt1puuvt9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnAimUq1Tzlcy_ljQ5AUyyearBok4NGyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497249510553-sgqtg1sgb04k6u2o0o6bhpjt1puuvt9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
